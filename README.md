@@ -1,3 +1,3 @@
-# Loammi.me
+# Loammi.space
 
-Ulomi's website code
+Loammi's website code
