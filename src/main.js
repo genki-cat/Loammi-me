@@ -3,7 +3,13 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import Scrollspy from 'vue2-scrollspy';
+import { BootstrapVue, BootstrapVueIcons } from 'bootstrap-vue'
 
+Vue.use(BootstrapVue)
+Vue.use(BootstrapVueIcons)
+
+Vue.use(Scrollspy)
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
