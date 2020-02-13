@@ -26,17 +26,14 @@
                         <h5 class="text-white">Contact Information</h5>
                         <div class="divider divider-sm bg-white mt-3"></div>
                         <ul class="list-unstyled mt-4">
-                            <li class=" mb-2">
-                                <span class="mr-2" data-feather="phone" width="20" height="20"></span>
-                                +86 187 8853 3486
+                            <li class="row mb-2">
+                                <b-icon class="mr-2" icon="phone" width="25" height="25"></b-icon> <span>+86 187 8853 3486</span>
                             </li>
-                            <li class=" mb-2">
-                                <span class="mr-2" data-feather="mail" width="20" height="20"></span>
-                                haohao.lee@hotmail.com
+                            <li class="row mb-2">
+                                <b-icon class="mr-2" icon="at" width="25" height="25"></b-icon> <span>haohao.lee@hotmail.com</span>
                             </li>
-                            <li class=" mb-2">
-                                <span class="mr-2" data-feather="map-pin" width="20" height="20"></span>
-                                Kunming, Yunnan Prov.China
+                            <li class="row mb-2">
+                                <b-icon class="mr-2" icon="house" width="25" height="25"></b-icon> <span class="mt-1">Kunming, Yunnan Prov.China</span>
                             </li>
                         </ul>
                     </div>
@@ -50,3 +47,4 @@
             </div>
         </footer>
 </template>
+                                <b-icon class="mr-2" icon="envelope" width="25" height="25"></b-icon> haohao.lee@hotmail.com
