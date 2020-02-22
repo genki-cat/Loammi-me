@@ -8,6 +8,7 @@ import _skill from '@/components/homepage/skill'
 import _services from '@/components/homepage/services'
 import _portfolio from '@/components/homepage/portfolio'
 import _footer from '@/components/homepage/footer'
+import casepage from '@/components/casepage'
 
 Vue.use(Router)
 
@@ -15,7 +16,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      components: {_home,_navigation,_about,_experience,_skill,_services,_portfolio,_footer}
+      components: {_home,_navigation,_about,_experience,_skill,_services,_portfolio,_footer},
+      meta:{isHomePage:true}
     },
     {
         path:'/about',
@@ -40,7 +42,12 @@ export default new Router({
     {
         path:'/contact',
         redirect:'/'
+    },
+    {
+        path:'/casepage',
+        name:'casepage',
+        component:casepage,
+        meta:{isHomePage:false}
     }
-
   ]
 })

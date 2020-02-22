@@ -1,20 +1,26 @@
 <template>
   <div id="app">
-    <router-view name="_home"/>
-    <router-view name="_navigation"/>
-    <div v-scroll-spy>
-        <router-view name="_about"/>
-        <router-view name="_experience"/>
-        <router-view name="_skill"/>
-        <router-view name="_services"/>
-        <router-view name="_portfolio"/>
-        <router-view name="_footer"/>
+    <div v-if="$route.meta.isHomePage">
+        <router-view name="_home"/>
+        <router-view name="_navigation"/>
+        <div v-scroll-spy>
+            <router-view name="_about"/>
+            <router-view name="_experience"/>
+            <router-view name="_skill"/>
+            <router-view name="_services"/>
+            <router-view name="_portfolio"/>
+            <router-view name="_footer"/>
+        </div>
+        <!--scroll to top-->
+        <div class="scroll-top"><i class="fa fa-angle-up" aria-hidden="true"></i></div>
     </div>
-     <!--scroll to top-->
-    <div class="scroll-top"><i class="fa fa-angle-up" aria-hidden="true"></i></div>
+     <router-view v-if="!$route.meta.isHomePage"/>
+
   </div>
 </template>
-<script>
+
+<script v-if="$route.meta.isHomePage">
+
 import './assets/css/google.fonts.css'
 import './assets/css/font-awesome.min.css'
 import './assets/css/default.css'
@@ -22,7 +28,6 @@ import $ from 'jquery'
 export default {
   name: 'App',
   mounted(){
-
         //page scroll
         $('a.page-scroll').bind('click', function (event) {
             var $anchor = $(this);
@@ -55,10 +60,10 @@ export default {
                 scrollTop: 0
             }, 1000);
         });
-
     }
 }
 </script>
+
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
