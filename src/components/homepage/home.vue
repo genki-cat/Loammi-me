@@ -21,7 +21,7 @@
     export default { 
         mounted(){
             const typist = this.$refs.typist; 
-            init(typist, {showCursor: false, strings: ['Full-Stack Engineer','Web Developer', 'Fitness enthusiast'],typeSpeed:  100,backSpeed:50});
+            init(typist, {showCursor: false, strings: ['Full-Stack Engineer','Web Developer', 'Product Manager', 'Fitness enthusiast'],typeSpeed:  100,backSpeed:50});
         }
     }
 </script>

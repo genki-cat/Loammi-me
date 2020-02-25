@@ -11,54 +11,47 @@
                                 <div class="timeline px-sm-5">
                                     <div class="root"></div>
                                     <div class="root">
-                                        <div class="date">2017 &mdash; Present</div>
+                                        <div class="date">2014 &mdash; Present</div>
                                         <div class="dot"></div>
                                         <div class="event">
-                                            <h5 class="mb-2">Senior Product Designer</h5>
+                                            <h5 class="mb-2">Vice Direct</h5>
                                             <div class="text-muted small-xl">
-                                                <span>Google</span>
+                                                <span>Shanghai Rongyi Internet Services, Inc</span>
                                                 <span class="bull">•</span>
-                                                <span>San Francisco, CA</span>
+                                                <span>Xuhui District, Shanghai</span>
                                             </div>
                                             <div class="content mt-4 px-0">
-                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-                                                Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                                            Responsible for the company's core technologies, including front-end development, back-end development, Internet of things hardware development, business intelligence. In addition, as the owner of the product line, responsible for new technology research, product innovation research and promotion
                                             </div>
                                         </div>
                                     </div>
                                     <div class="root">
-                                        <div class="date">2015 &mdash; 2017</div>
+                                        <div class="date">2013 &mdash; 2014</div>
                                         <div class="dot"></div>
                                         <div class="event">
-                                            <h5 class="mb-2">Product Designer</h5>
+                                            <h5 class="mb-2">Full-Stack Engineer</h5>
                                             <div class="text-muted small-xl">
-                                                <span>Facebook</span>
+                                                <span>Bank of Communications</span>
                                                 <span class="bull">•</span>
-                                                <span>London, UK</span>
+                                                <span>Pudong New District, Shanghai</span>
                                             </div>
                                             <div class="content mt-4 px-0">
-                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-                                                Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                                            Responsible for the full stack development of bank of communications smart e-bank client, including PC and mobile client.
                                             </div>
                                         </div>
                                     </div>
                                     <div class="root">
-                                        <div class="date">2014 &mdash; 2015</div>
+                                        <div class="date">2012 &mdash; 2013</div>
                                         <div class="dot"></div>
                                         <div class="event">
-                                            <h5 class="mb-2">Product Design Intern</h5>
+                                            <h5 class="mb-2">Front-End Engineer</h5>
                                             <div class="text-muted small-xl">
-                                                <span>GitHub</span>
+                                                <span>Jinfonet Software, Inc</span>
                                                 <span class="bull">•</span>
-                                                <span>New York City, NY</span>
+                                                <span>Research Blvd | Rockville, MD</span>
                                             </div>
                                             <div class="content mt-4 px-0">
-                                                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. 
-                                                Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                                                <ul>
-                                                    <li>Lorem ipsum dolor sit amet.</li>
-                                                    <li>Lorem ipsum dolor sit amet dis.</li>
-                                                </ul>
+                                            Responsible for the research and development of jreport and dashboard product lines, which mainly serve financial, government, power and other institutions such as the U.S. navy, Bank of America, VISA, etc
                                             </div>
                                         </div>
                                     </div>

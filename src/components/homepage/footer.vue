@@ -41,7 +41,7 @@
                 <hr class="my-5"/>
                 <div class="row">
                     <div class="col-12 text-muted text-center">
-                         © 2020 Genki-Cat Internet Services, Inc., All Rights Reserved. 
+                         © 2020 Genki-Cat Internet Services, All Rights Reserved. 版权所有：<a style="font-size:14px" href="http://www.beian.miit.gov.cn" target="_blank">滇ICP备20001216号</a>
                     </div>
                 </div>
             </div>

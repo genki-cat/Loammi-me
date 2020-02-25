@@ -17,7 +17,7 @@
                                     </div>
                                 </div>
                                 <h5 class="my-3">Web Development</h5>
-                                <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imper per tem por legere me doming.</p>
+                                <p>Provide customized software development services, including the development of new projects and the optimization of old projects</p>
                             </div>
                         </div>
                     </div>
@@ -30,7 +30,7 @@
                                     </div>
                                 </div>
                                 <h5 class="my-3">H5 Marketing Apps</h5>
-                                <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imper per tem por legere me doming.</p>
+                                <p>Combined with my own rich offline retail marketing experience, we design and develop suitable mobile marketing applications for you.</p>
                             </div>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                                     </div>
                                 </div>
                                 <h5 class="my-3">Wechat Mini Apps</h5>
-                                <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imper per tem por legere me doming.</p>
+                                <p>Customized WeChat small program development, to meet the needs of various industries, and provide you with UED and product experience recommendations.</p>
                             </div>
                         </div>
                     </div>
@@ -56,7 +56,7 @@
                                     </div>
                                 </div>
                                 <h5 class="my-3">Wechat Offical Account</h5>
-                                <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imper per tem por legere me doming.</p>
+                                <p>WeChat subscription account, service account development, one-stop service, without tedious steps.</p>
                             </div>
                         </div>
                     </div>
@@ -69,7 +69,7 @@
                                     </div>
                                 </div>
                                 <h5 class="my-3">Mobile Apps</h5>
-                                <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imper per tem por legere me doming.</p>
+                                <p>Hybird mobile app development service, and use multiple platforms for one set of code (ios, android, mini website).</p>
                             </div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                                     </div>
                                 </div>
                                 <h5 class="my-3">Consulting</h5>
-                                <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imper per tem por legere me doming.</p>
+                                <p>If you have any technical or product questions, I can also provide you with consulting services.</p>
                             </div>
                         </div>
                     </div>
