@@ -30,7 +30,7 @@
                                 <b-icon class="mr-2" icon="phone" width="25" height="25"></b-icon> <span>+86 187 8853 3486</span>
                             </li>
                             <li class="row mb-2">
-                                <b-icon class="mr-2" icon="at" width="25" height="25"></b-icon> <span>haohao.lee@hotmail.com</span>
+                                <b-icon class="mr-2" icon="at" width="25" height="25"></b-icon> <span>loammi@genki-cat.cn</span>
                             </li>
                             <li class="row mb-2">
                                 <b-icon class="mr-2" icon="house" width="25" height="25"></b-icon> <span class="mt-1">Kunming, Yunnan Prov.China</span>
